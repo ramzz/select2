@@ -1583,7 +1583,7 @@ the specific language governing permissions and limitations under the Apache Lic
                 "<input class='select2-focusser select2-offscreen' type='text'/>",
                 "<div class='select2-drop' style='display:none'>" ,
                 "   <div class='select2-search'>" ,
-                "       <input type='text' autocomplete='off' class='select2-input'/>" ,
+                "       <input type='text' autocomplete='off' autocorrect='off' autocapitalize='off' class='select2-input'/>" ,
                 "   </div>" ,
                 "   <ul class='select2-results'>" ,
                 "   </ul>" ,
